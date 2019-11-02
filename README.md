@@ -1,2 +1,1 @@
-# am-lost
-Finally nailed it
+[![Build Status](https://travis-ci.com/LadyDzidzor/for-test.svg?branch=master)](https://travis-ci.com/LadyDzidzor/for-test)
